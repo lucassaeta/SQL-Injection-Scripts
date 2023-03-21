@@ -1,0 +1,5 @@
+Proximos pasos a seguir en el script: 
+
+- refactor y separar codigo en distintos ficheros
+- control de errores en interfaz
+- añadir mas pruebas para evadir posibles filtros
